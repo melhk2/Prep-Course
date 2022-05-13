@@ -1,0 +1,24 @@
+// for es un bucle que evalua expresiones una y otra vez, 
+// y se detiene segun lo especificado en el comando.
+// Se utilizan para hacer cosas de manera retitiva sin errores, 
+// ni ejecutar el mismo comando de forma indefinida.
+// Su formato es muy especifico costa de:
+// for (i = 0 ; i < 100; i++) 
+//la primer parte declara una variable, 
+//la segunda es la expresion condicional (la que va a detener el bucle), 
+// la tecera es el incremento (como va a ir aumentando).
+
+
+//OPERADORES
+
+// && (Significa AND o y en castellano)
+// evalua las expresiones y devuelve en booleano cada una.
+// va a ser true: si ambas son TRUE
+// FALSO: Si uno o ambos es FALSO, el operador devuelde FALSE
+
+// || (OR o O en castillano)
+// El operador devuelve TRUE: cuando una o ambas son TRUE.
+// Devuelve FALSE, solo si ambas son FALSAS
+
+// ! (NOT o NO en castellano)
+// devuelve true si es false, porque se maneja con lo opuesto de lo que pasa.
